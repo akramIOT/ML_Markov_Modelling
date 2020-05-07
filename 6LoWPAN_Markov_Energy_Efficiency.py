@@ -12,6 +12,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 6LLN Node  State Transition Probability Matrix  or Transformation Matrix
+# The State Transition Probability Matrix is claimed Markovian or MC based as the state change of a Wireless 6LLN node is dependent
+# on the present state rather than the past (History of past states).Its a memoryless stochastic random process in other sense.
 
 P = np.array([[0.2, 0.7, 0.1],
               [0.9, 0.0, 0.1],
