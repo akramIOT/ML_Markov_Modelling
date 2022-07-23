@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Apr 12 12:31:12 2020
-@author: isheriff
-isheriff - Markov chain modelling for energy optimization by predicting optimum State Transition in  Wireless Mesh Networks
+@author: Akram Sheriff
+- Markov chain modelling for energy optimization by predicting optimum State Transition in  Wireless Mesh Networks
 """
 import numpy as np
 import pandas as pd
